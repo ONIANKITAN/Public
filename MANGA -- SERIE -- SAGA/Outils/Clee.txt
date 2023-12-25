@@ -1,6 +1,0 @@
-Les Mots Clé :
-MANGA_id1.txt : "T1, T1"
-FILM_id1.txt : "t2, t2"
-SAGA_id1.txt : "t3, t3"
-SERIE_id1.txt : "t4, t4"
-FILM_id2.txt : "t3, man, t3 man"
