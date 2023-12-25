@@ -1,0 +1,10 @@
+Nom : t4
+
+*  Les Liens de redirection :
+t4 - SAISON 1 : {SERIE}7
+t4 - SAISON 2 : {SERIE}8
+t4 - SAISON 3 : {SERIE}9
+t4 - SAISON 4 : {SERIE}7
+t4 - SAISON 5 : {SERIE}5
+🫂GROUPE : {Share_Group}
+👥CANAL : {Share_Canal}
