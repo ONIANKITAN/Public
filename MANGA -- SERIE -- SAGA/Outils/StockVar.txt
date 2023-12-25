@@ -1,0 +1,14 @@
+default_values = {
+    MANGA: "https://t.me/FOX_PRONO",
+    FILM: "https://t.me/FOX_PRONO",
+    MANGA_except: "https://t.me/FOX_PRONO",
+    SERIE: "https://t.me/FOX_PRONO",
+    SAGA: "https://t.me/FOX_PRONO",
+    Share_Canal: "https://t.me/share/url?url=https://t.me/SharClub",
+    Share_Group: "https://t.me/share/url?url=https://t.me/SharClub",
+    Help_Canal: "https://t.me/kkkkkk0ooooo",
+    Id_Help_Canal: "-1001822904175",
+    group_ids_autorises: *"-1002054489996","-1002050969919","6039597308"*
+    authorized_user_ids: "6217351762, 1234567890, 9876543210"
+    
+}
